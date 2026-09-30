@@ -1,0 +1,19 @@
+{
+  "started_at": "2026-09-30T22:15:56.307522+00:00",
+  "finished_at": "2026-09-30T22:15:58.048000+00:00",
+  "duration_seconds": 1.74,
+  "catalogue_pages": 3,
+  "discovered": 60,
+  "unique_urls": 61,
+  "pages_fetched": 1,
+  "cache_hits": 63,
+  "valid_records": 60,
+  "invalid_records": 1,
+  "failed_pages": 1,
+  "failures": [
+    {
+      "url": "https://books.toscrape.com/catalogue/does-not-exist/index.html",
+      "reason": "HTTP 404"
+    }
+  ]
+}

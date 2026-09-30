@@ -1,0 +1,6 @@
+[
+  {
+    "url": "https://books.toscrape.com/catalogue/does-not-exist/index.html",
+    "reason": "HTTP 404"
+  }
+]
